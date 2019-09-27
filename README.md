@@ -17,4 +17,4 @@ Selenium webdriver
 1) Python - I have used virtual environment
 
 # Problems Encountered
-While installing selenium chrome driver for my browser, I got a problem as i didn't update my chrome version.
+While installing selenium chrome driver for my browser, I got a problem with driver version as i didn't update my chrome version.
